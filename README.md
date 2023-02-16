@@ -43,7 +43,7 @@ I'm Waseem a Python Backend Developer.
 <img title="linux" alt="linux" src="ICONS/linux-tux.svg" width="40" height="35" style="vertical-align:down; margin:4px"/>
 <br />
 #### Business
-- :paperclip: [My Resume/CV](https://github.com/Wasi8DCI/Wasi8DCI/main/CV/Waseem_Zahoor.pdf)
+- :paperclip: [My Resume/CV](https://github.com/WaseemZahoor/waseem-zahoor/blob/main/CV/Waseem_Zahoor.pdf)
 
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Wasi8DCI.Wasi8DCI)
