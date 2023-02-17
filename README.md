@@ -6,25 +6,25 @@ I'm Waseem a Python Backend Developer.
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Wasi8DCI/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/WaseemZahoor/)
 [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zwaseem@gmx.de)
 
 - 🔭 I’m currently looking for a **Job**
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 👯 I’m looking to collaborate on **Python and Web Projects.**
 - 📫 How to reach me: zwaseem@gmx.de
--  👨‍💻 All of my projects are available at <a href="https://github.com/Wasi8DCI?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
+-  👨‍💻 All of my projects are available at <a href="https://github.com/WaseemZahoor?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
 - 💬 Ask me about **Python, Django, DRF, APIs, Docker**
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
  <br />
  <p align="center">
-  <a href="https://github.com/Wasi8DCI">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Wasi8DCI&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/WaseemZahoor">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=WaseemZahoor&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/Wasi8DCI/github-readme-stats">
-    <img align="center"src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wasi8DCI&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com/WaseemZahoor/github-readme-stats">
+    <img align="center"src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WaseemZahoor&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 
@@ -43,9 +43,9 @@ I'm Waseem a Python Backend Developer.
 <img title="linux" alt="linux" src="ICONS/linux-tux.svg" width="40" height="35" style="vertical-align:down; margin:4px"/>
 <br />
 #### Business
-- :paperclip: [My Resume/CV](https://github.com/WaseemZahoor/waseem-zahoor/blob/main/CV/Waseem_Zahoor.pdf)
+- :paperclip: [My Resume/CV](https://github.com/WaseemZahoor/WaseemZahoor/blob/main/CV/Waseem_Zahoor.pdf)
 
 #### Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Wasi8DCI.Wasi8DCI)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=WaseemZahoor.WaseemZahoor)
 
 
